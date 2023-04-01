@@ -1,4 +1,4 @@
-<a href="https://hoperise.netlify.app/" ><h1 align="center" >Hoperise</h1></a>
+<h1 align="center" >Hoperise</h1>
 
 <kbd><img align="center" src="https://user-images.githubusercontent.com/116445326/229303236-dacf696a-f075-40fc-852a-824af723532f.png" alt="website"></kbd>
 
@@ -14,7 +14,10 @@ This is the official repository for the website of Hoperise, a non-profit websit
    </p>
 
 <h2>Features</h2>
-
+<li><b>Home page:</b> Contains a welcome message, a donation option, details about upcoming events, and a form to become a volunteer.</li>
+<li><b>About page:</b> Contains information about the website, including testimonies from users and details about team members.</li>
+<li><b>Blog page:</b> Contains regular blog updates on a variety of topics related to hope and positivity.</li>
+<li><b>Contact page:</b> Contains contact information and an option to sign up for a newsletter to stay up-to-date on the latest news and updates.</li>
 
 <h2>Project Structure</h2><br/>
 <ul>The project is organized into the following directories:
@@ -35,3 +38,12 @@ This is the official repository for the website of Hoperise, a non-profit websit
 
 <h2>Conclusion</h2>
 By the end of this project, you will have gained valuable experience in building a React.js web application from scratch and some of the UI elements may not display correctly on smaller screens. However, we plan to address this in future updates.
+
+<h4>Team Member</h4>
+<li>Vivek Chauhan</li>
+<li>Vishal Kumar</li>
+<li>Jaideep Kumar Thakur</li>
+<li>Nitish Kumar</li>
+<li>Astha kumari</li>
+
+<h4>Please visit our [Hoperise](https://hoperise.netlify.app/)</h4>
