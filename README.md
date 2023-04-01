@@ -1,4 +1,4 @@
-<h1 align="center" >Hoperise</h1>
+<h1 align="center" >[Hoperise](https://hoperise.netlify.app/)</h1>
 <kbd><img align="center" src="https://user-images.githubusercontent.com/116445326/229303236-dacf696a-f075-40fc-852a-824af723532f.png" alt="website"></kbd>
 
 This is the official repository for the website of Hoperise, a non-profit website that provides donation options to those in need. The website is built by a team of 5 members.
